@@ -1,3 +1,5 @@
+##Strictly Frontend Project
+
 # React-Tailwind-learning
 Following the tutorial in https://www.youtube.com/watch?v=F627pKNUCVQ&list=WL&index=14
 First time using Reach and TailwindCSS to make a web project, so this was a good experience
